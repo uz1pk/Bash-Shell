@@ -6,6 +6,7 @@ so that we can keep track of all of them and print out
 any finished background processes. Background count 
 keeps tracks of the number of finished processes to print.
 */
+
 pid_t allBackground[100];
 pid_t finishedBackground[50];
 int backgroundCount = 0;

@@ -1,7 +1,6 @@
 /**
  * @file myShell.h
- * @author Usman Zaheer (Student# 1148583)
- * @date February 2021
+ * @author Usman Zaheer
  * @brief File containing the function definitions for all functions in myShell.c
  */
 
