@@ -1,14 +1,14 @@
-#include <stdio.h>       /* Input/Output */ 
-#include <stdlib.h>      /* General Utilities */ 
-#include <string.h>      /* String Processing */ 
-#include <strings.h>     /* String Processing */ 
-#include <ctype.h>       /* C Type Functions */ 
-#include <unistd.h>      /* Symbolic Constants */ 
-#include <errno.h>       /* Errors */ 
-#include <fcntl.h>       /* Open and Write */   
-#include <signal.h>      /* signal Functions */
-#include <sys/types.h>   /* Primitive System Data Types */ 
-#include <sys/wait.h>    /* Wait for Process Termination */   
+#include <stdio.h>    
+#include <stdlib.h>     
+#include <string.h>     
+#include <strings.h>    
+#include <ctype.h>     
+#include <unistd.h>     
+#include <errno.h>    
+#include <fcntl.h>      
+#include <signal.h>     
+#include <sys/types.h>  
+#include <sys/wait.h>  
 
 /** Function to free any array of strings. 
  * @pre Pointer argument must not be NULL.
