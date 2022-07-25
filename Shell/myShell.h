@@ -1,9 +1,3 @@
-/**
- * @file myShell.h
- * @author Usman Zaheer
- * @brief File containing the function definitions for all functions in myShell.c
- */
-
 #include <stdio.h>       /* Input/Output */ 
 #include <stdlib.h>      /* General Utilities */ 
 #include <string.h>      /* String Processing */ 
